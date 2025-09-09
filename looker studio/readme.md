@@ -79,7 +79,7 @@ Dashboard Screenshot:
 <img src="img/img 1.png" />
 
 Walkthrough Video:
-▶️[ Loan Health Dashboard Demo](img/lookvideo.mp4)
+▶️[ Loan Health Dashboard Demo](https://youtu.be/eTIw-m_9N-c)
 
 # 📈 Key Outcomes
 
