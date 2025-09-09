@@ -63,7 +63,7 @@ Enabled cross-filtering across charts to allow interactive exploration.
 Configured automatic refresh scheduling for near real-time updates.
 
 Customized dashboard formatting for readability and stakeholder presentations.
-img: <img src="img/img 3.png" />
+image: <img src="img/img 2.png" />
 
 Step 4: Deliver & Publish
 
@@ -88,8 +88,10 @@ Provided Treasury with a single source of truth for loan health monitoring.
 Improved ability to track loan performance, risk exposure, and compliance.
 
 Delivered a portfolio-ready dashboard showcasing real-world BI and cloud analytics skills.
-
+# dashboard
+IMAGE:
 <img src="img/img 2.png" />
+
 # 💡 Skills Gained
 
 Looker BI Development: Building dashboards, cross-filtering, and refresh scheduling.
