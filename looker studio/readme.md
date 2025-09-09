@@ -81,7 +81,7 @@ Dashboard Screenshot:
 Walkthrough Video:
 ▶️ Loan Health Dashboard Demo
 
-<iframe src="img/lookvideo.mp4" ></iframe>
+<video src="img/lookvideo.mp4" ></video>
 
 # 📈 Key Outcomes
 
