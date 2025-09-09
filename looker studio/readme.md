@@ -63,6 +63,7 @@ Enabled cross-filtering across charts to allow interactive exploration.
 Configured automatic refresh scheduling for near real-time updates.
 
 Customized dashboard formatting for readability and stakeholder presentations.
+img: <img src="looker studio/img/img 3.png" >
 
 Step 4: Deliver & Publish
 
@@ -73,7 +74,7 @@ Configured permissions for Treasury team members to access and interact with rep
 # 📊 Dashboard Preview
 
 Dashboard Screenshot:
-
+<img src="looker studio/img/img 1.png" >
 
 Walkthrough Video:
 ▶️ Loan Health Dashboard Demo
@@ -86,6 +87,7 @@ Improved ability to track loan performance, risk exposure, and compliance.
 
 Delivered a portfolio-ready dashboard showcasing real-world BI and cloud analytics skills.
 
+<img src="looker studio/img/img 2.png" >
 # 💡 Skills Gained
 
 Looker BI Development: Building dashboards, cross-filtering, and refresh scheduling.
