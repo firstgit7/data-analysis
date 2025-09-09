@@ -76,7 +76,7 @@ Configured permissions for Treasury team members to access and interact with rep
 Dashboard Screenshot:
 
 
-<img src="img/img 1.png"/ >
+<img src="img/img 1.png" />
 
 Walkthrough Video:
 ▶️ Loan Health Dashboard Demo
