@@ -74,6 +74,8 @@ Configured permissions for Treasury team members to access and interact with rep
 # 📊 Dashboard Preview
 
 Dashboard Screenshot:
+
+
 <img src="img/img 1.png"/ >
 
 Walkthrough Video:
