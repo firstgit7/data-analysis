@@ -37,7 +37,7 @@ Executives need to quickly answer:
 - Explored fields: `Order Year`, `Product Line`, `Quantity Sold`, `Revenue`.  
 - Verified data types (dates, numbers, strings).  
 
-<img src="tableau/images/data.png" >
+<img src="images/data.png" />
 
 ---
 
@@ -56,16 +56,16 @@ Executives need to quickly answer:
 1. **Performance by Year** (Line Chart)  
    - Visualizes product line performance across years.  
    - Added labels and captions for storytelling.  
-<img src="tableau/images/rty.png" >
+<img src="images/rty.png" />
 2. **Quantity Sold** (KPI Card)  
    - Displays total units sold, aggregated.  
    - Easy for executives to track sales volume.  
-<img src="tableau/images/quantity.png" >
+<img src="images/quantity.png" />
 3. **Revenue** (KPI Card)  
    - Shows total revenue generated.  
    - Key for financial reporting and strategy.  
 
-<img src="tableau/images/revenue.png" >
+<img src="images/revenue.png" />
 
 ---
 
@@ -77,7 +77,7 @@ Executives need to quickly answer:
   - KPIs below for quick metrics.  
 - Enabled interactivity: line chart acts as a filter for KPIs.  
 
-<img src="tableau/images/dashboard.png" >
+<img src="images/dashboard.png" />
 
 ---
 
@@ -88,7 +88,7 @@ Executives need to quickly answer:
   - **PPTX** for business presentations.  
   - **Image** for quick sharing.  
 
-<img src="tableau/images/fdashboard.png" >
+<img src="images/fdashboard.png" />
 
 ---
 
@@ -116,7 +116,7 @@ Executives need to quickly answer:
 ---
 
 ## 📹 Demo
-<img src="tableau/images/demo.mp4" >
+<img src="images/demo.mp4" />
 
 ---
 
